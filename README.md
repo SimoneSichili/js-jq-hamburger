@@ -3,6 +3,7 @@
 
 ## Screenshoot
 ![JQuery-Hamburger-lg](https://i.imgur.com/4RQZPuU.jpg)
+![JQuery-Hamburger-sm](https://i.imgur.com/00Rqn3J.jpg)
 ![JQuery-Hamburger-sm2](https://i.imgur.com/1MoEinz.jpg)
 
 ## Technologies and libraries
